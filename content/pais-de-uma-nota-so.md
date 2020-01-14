@@ -6,7 +6,7 @@ author: Julio Lira
 
 
 ![](https://revistacult.uol.com.br/home/wp-content/uploads/2019/09/marighella.jpg)
-  --Carlos Marighella
+  __--Carlos Marighella__
 
 Não pretendo nada,
 nem flores, louvores, triunfos.

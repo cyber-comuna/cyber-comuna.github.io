@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Julio Lira'
 SITENAME = 'Comuna brasileira'
-#SITEURL = 'bolivar-comuna.github.io'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -12,8 +12,6 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 
-# Theme
-THEME = 'medius'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
@@ -21,13 +19,17 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+THEME = 'medius'
+
 # Blogroll
-LINKS = (('Jornal A Verdade', 'http://averdade.org.br/'),
-         ('Unidade Popular', 'https://unidadepopular.org.br/'),)
+LINKS = (('Pelican', 'http://getpelican.com/'),
+         ('Python.org', 'http://python.org/'),
+         ('Jinja2', 'http://jinja.pocoo.org/'),
+         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('Twitter', 'https://twitter.com/jul10l1r4'),
-        ('Telegram', 'https://t.me/juraul'),)
+SOCIAL = (('You can add links in your config file', '#'),
+          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 8
 
