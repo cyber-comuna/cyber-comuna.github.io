@@ -19,8 +19,6 @@ CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Theme
-THEME = 'medius'
 
 # Following items are often useful when publishing
 

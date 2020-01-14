@@ -1,9 +1,11 @@
 Title: O País de Uma Nota Só
 Date: 2020-01-14 12:00
-Category: Histório
+Category: Histórico
 Tags: Guerrilha, Marighella, Brasil
 author: Julio Lira
 
+
+![](https://revistacult.uol.com.br/home/wp-content/uploads/2019/09/marighella.jpg)
   --Carlos Marighella
 
 Não pretendo nada,

@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Julio Lira'
 SITENAME = 'Comuna brasileira'
-SITEURL = 'bolivar-comuna.github.io'
+#SITEURL = 'bolivar-comuna.github.io'
 
 PATH = 'content'
 
@@ -12,6 +12,8 @@ TIMEZONE = 'America/Sao_Paulo'
 
 DEFAULT_LANG = 'pt'
 
+# Theme
+THEME = 'medius'
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
