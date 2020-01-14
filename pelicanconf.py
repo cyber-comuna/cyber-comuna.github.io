@@ -27,7 +27,7 @@ LINKS = (('Jornal A Verdade', 'http://averdade.org.br/'),
 
 # Social widget
 SOCIAL = (('Twitter', 'https://twitter.com/jul10l1r4'),
-          ('Telegram', 't.me/juraul'),)
+        ('Telegram', 'https://t.me/juraul'),)
 
 DEFAULT_PAGINATION = 8
 
