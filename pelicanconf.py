@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Julio Lira'
-SITENAME = 'Comuna brasileira'
+SITENAME = 'Cyber comuna'
 SITEURL = ''
 
 PATH = 'content'
@@ -22,14 +22,13 @@ AUTHOR_FEED_RSS = None
 THEME = 'medius'
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('UP (Unidade Popula pelo socialismo)', 'http://unidadepopular.org.br/'),
+         ('MLB (Movimento de Luta nos bairros vilas e favela)', 'https://www.mlbbrasil.org/'),
+         ('Jornal A Verdade (Imprensa popular)', 'https://averdade.org.br/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 8
 

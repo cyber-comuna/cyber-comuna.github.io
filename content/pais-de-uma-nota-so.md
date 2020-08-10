@@ -3,9 +3,8 @@ Date: 2020-01-14 12:00
 Category: Histórico
 Tags: Guerrilha, Marighella, Brasil
 author: Julio Lira
+cover: /images/marighella.gif
 
-
-![](https://revistacult.uol.com.br/home/wp-content/uploads/2019/09/marighella.jpg)
   __--Carlos Marighella__
 
 Não pretendo nada,
