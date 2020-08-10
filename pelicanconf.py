@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Julio Lira'
 SITENAME = 'Cyber comuna'
-SITEURL = ''
+SITEURL = 'https://cyber-comuna.github.io'
 
 PATH = 'content'
 
